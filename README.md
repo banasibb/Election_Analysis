@@ -26,4 +26,6 @@ The analysis of the election shows that:
     - Diana DeGette, who received 73.8% of the votes and 272,892 of the total 369,711 votes cast.
 
 ## Challenge Overview
+In order to perform the analysis of the CSV election data, Microsoft Virtual Studio Code was used to read the CSV file and to create a text file to hold the output of the analysis findings. 
+To perform the calculations required in the analysis, variables were assigned to establish the candidate options, calculate the total votes, and determine the winning candidate based on the vote count as a percentage of total.
 ## Challenge Summary
