@@ -27,5 +27,5 @@ The analysis of the election shows that:
 
 ## Challenge Overview
 In order to perform the analysis of the CSV election data, Microsoft Virtual Studio Code was used to read the CSV file and to create a text file to hold the output of the analysis findings. <br />
-To perform the calculations required in the analysis, variables were assigned to establish the candidate options, calculate the total votes, and determine the winning candidate based on the vote count as a percentage of total.
+<br />To perform the calculations required in the analysis, variables were assigned to establish the candidate options, calculate the total votes, and determine the winning candidate based on the vote count as a percentage of total.
 ## Challenge Summary
